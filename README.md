@@ -2,7 +2,7 @@
 
 # "By Dr.C.V.Guru Rao"
 
-[My repository link](https://github.com/smartinternz02/SPS-8478-Education-Domain.git "Education Domain Website")
+[My repository link](https://github.com/smartinternz02/SPS-8478-Education-Domain.git, "Education Domain Website")
 
 ## Education Domain Website
 
@@ -221,7 +221,7 @@ A website created in the GoDaddy Web Build-A-Thon.
 
 ##__Link to YouTube Video__  
 
-[![Video on Website](http://img.youtube.com/vi/6lRf2VYgc_c/0.jpg)](http://www.youtube.com/watch?v=6lRf2VYgc_c "WEBSITE VIDEO") 
+[[Video on Website](http://img.youtube.com/vi/6lRf2VYgc_c/0.jpg)](https://youtu.be/i8hSVYf-A6k "WEBSITE VIDEO") 
 
 ##  References
 
