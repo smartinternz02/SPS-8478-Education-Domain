@@ -187,7 +187,7 @@ Export all the data of webpages of the website under construction.
 
 GoDaddy Home page where sign in option is shown.
 
-![Logged into GoDaddy Website](./CVG-SB-WAT-WH-GoDaddy-LogIn.png)
+![Logged into GoDaddy Website](./CVG-SB-WAT-WH-GoDaddy-Login.png)
 
 Login credentials at GoDaddy website.
 
