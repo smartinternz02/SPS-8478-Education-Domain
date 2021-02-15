@@ -35,7 +35,7 @@ This repository is to present a website built using WordPress as part of GoDaddy
 
 ##__Create an account at Wordpress website__
 
-![Download, Install Wordpress and Create account](./CVG-SB-WAT-WP-Install.png)
+![Download, Install Wordpress and Create account](./CVG-SB-WAT-WP-Intall.png)
 
 Download and install Bitnami Wordpress to create an account to participate in GoDaddy-SmartBridge Web Build-A-Thon.
 
@@ -187,7 +187,7 @@ Export all the data of webpages of the website under construction.
 
 GoDaddy Home page where sign in option is shown.
 
-![Logged into GoDaddy Website](./CVG-SB-WAT-WH-GoDaddy-Log-In.png)
+![Logged into GoDaddy Website](./CVG-SB-WAT-WH-GoDaddy-LogIn.png)
 
 Login credentials at GoDaddy website.
 
@@ -203,7 +203,7 @@ The website is created at GoDaddy website in space booked with promocode.
 
 ##__Import Wordpress website__
 
-![Import data of all webpages into web hosting space](./CVG-SB-WAT-Import.png)
+![Import data of all webpages into web hosting space](./CVG-SB-WAT-Imprt.png)
 
 Import all the data of webpages of the exported website.
 
